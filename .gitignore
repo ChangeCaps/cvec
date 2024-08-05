@@ -1,0 +1,5 @@
+.cache/
+.direnv/
+out/
+deps/
+compile_commands.json
