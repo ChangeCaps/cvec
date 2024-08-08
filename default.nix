@@ -10,7 +10,6 @@ pkgs.stdenv.mkDerivation {
   nativeBuildInputs = [
     pkgs.clang-tools
     pkgs.clang
-    pkgs.pkg-config
     lute.packages.${pkgs.system}.lute
   ];
 
