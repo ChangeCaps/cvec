@@ -1,5 +1,5 @@
 .cache/
 .direnv/
-out/
-deps/
+lute-cache/
+lute-out/
 compile_commands.json
